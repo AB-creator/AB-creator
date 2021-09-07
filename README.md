@@ -6,7 +6,7 @@
 - 💬 Ask me about anything
 <!-- - 📫 How to reach me: [![linkedin](https://www.linkedin.com/in/anushrii-a011b/) -->
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love chocolate🍫
+- ⚡ Fun fact: I love chocolates🍫
 
 <!--
 **AB-creator/AB-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
