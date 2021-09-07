@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
-- 📫 How to reach me: [![linkedin](https://www.linkedin.com/in/anushrii-a011b/)
+<!-- - 📫 How to reach me: [![linkedin](https://www.linkedin.com/in/anushrii-a011b/) -->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love chocolate🍫
 
